@@ -1,0 +1,11 @@
+messages:
+  spawn-tp:
+    message:
+      enabled: true
+      value:
+        - "&a&l[!] &aYou have been teleported to spawn!"
+  realm-tp:
+    message:
+      enabled: true
+      value:
+        - "&a&l[!] &aYou have been teleported to your realm!"

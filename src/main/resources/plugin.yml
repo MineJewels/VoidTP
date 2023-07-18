@@ -1,0 +1,7 @@
+name: JewelsVoidTP
+version: ${project.version}
+main: org.minejewels.jewelsvoidtp.JewelsVoidTP
+api-version: 1.19
+depend: [ AbyssLib ]
+authors: [ Consciences ]
+description: VoidTP!
